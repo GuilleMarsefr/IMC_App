@@ -1,0 +1,1 @@
+Nombre: Ale, Edad: 20, Peso: 50.0, Altura: 1.5, IMC: 22.22
